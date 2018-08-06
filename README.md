@@ -71,9 +71,13 @@ The source code of codecentric's Spring Boot Admin is licensed under [Apache Lic
 
 Spring, Spring Boot and Spring Cloud are trademarks of [Pivotal Software, Inc.](https://pivotal.io/) in the U.S. and other countries.
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-boot-admin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-boot-admin?ref=badge_large)
+
 ## Screenshots
 
 ![Screenshot application list](/images/screenshot.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-boot-admin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fspring-boot-admin?ref=badge_shield)
 *Dashboard with desktop notifications*
 
 ![Screenshot details](/images/screenshot-details.png)
